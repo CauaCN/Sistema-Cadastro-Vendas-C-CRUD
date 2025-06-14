@@ -1,7 +1,7 @@
 
 # 📊 Sistema de Cadastro e Análise de Vendas em C
 
-Este projeto foi desenvolvido como uma **atividade acadêmica da disciplina de Programação II** durante minha graduação em **Análise e Desenvolvimento de Sistemas**. O sistema simula um **CRUD (Create, Read, Update, Delete) em linguagem C**, utilizando conceitos como **alocação dinâmica de memória, manipulação de arquivos, structs e ponteiros**.
+Este projeto foi desenvolvido como uma **atividade acadêmica da disciplina de Programação II** durante minha graduação em **Sistemas de Informação**. O sistema simula um **CRUD (Create, Read, Update, Delete) em linguagem C**, utilizando conceitos como **alocação dinâmica de memória, manipulação de arquivos, structs e ponteiros**.
 
 O objetivo do sistema é permitir o **cadastro, consulta, alteração e análise de vendas**, oferecendo também funcionalidades de filtros e estatísticas dos dados registrados.
 
