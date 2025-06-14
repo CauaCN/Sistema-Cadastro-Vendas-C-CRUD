@@ -44,7 +44,7 @@ Este projeto teve como foco a prática e desenvolvimento de competências na pro
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seuusuario/nomedorepositorio.git
+git clone https://cauacn.github.io/Sistema-Cadastro-Vendas-C-CRUD/
 ```
 
 2. Compile o código em qualquer compilador C (GCC, Dev C++, Code::Blocks, etc.):
@@ -81,5 +81,5 @@ Este projeto foi realizado em **trabalho em equipe**, simulando ambientes colabo
 ## 🔗 Contato
 
 **Cauã Albuquerque**  
-📧 [Seu Email]  
-💼 [Seu LinkedIn]  
+📧 caua.novaes@soulasalle.com.br
+💼 (https://www.linkedin.com/in/cau%C3%A3-novaes-a55529336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
